@@ -46,10 +46,6 @@ user-registration-validation/
 2. Passwords do not match → Form shows alert to correct them.  
 3. Once all inputs are valid → Success message or redirect can occur.  
 
-## 📸 Preview  
-_Add a screenshot or GIF here (optional)_  
-![Preview Screenshot](assets/preview.png)  
-
 ## 🧰 Future Improvements  
 - Add password strength indicator  
 - Connect with backend (Node.js / PHP) for real user registration  
@@ -58,10 +54,4 @@ _Add a screenshot or GIF here (optional)_
 
 ## 📝 License  
 This project is open-source and available under the **MIT License**.  
-
-### 👨‍💻 Author  
-**Your Name**  
-📧 your.email@example.com  
-🌐 [your-portfolio-link.com](https://your-portfolio-link.com)  
-
 ⭐ *If you like this project, consider giving it a star on GitHub!*  
